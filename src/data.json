@@ -1,6 +1,6 @@
 {
     "main": {
-      "name":"Tacorec",
+      "name":"Saglik Adasi",
       "occupation":"(Your Occupation Here)",
       "description":"Here will be your description. Here will be your description. Here will be your description. Here will be your description. Here will be your description. Here will be your description. Here will be your description. Here will be your description. Here will be your description.",
       "image":"profilepic.jpg",
@@ -57,7 +57,7 @@
     "resume":{
       "kisi1":[
         {
-          "school":"Ekrem",
+          "school":"Veysel",
           "degree":"Masters in Beer tasting",
           "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc.",
           "img": "profilepic.jpg"
@@ -65,7 +65,7 @@
       ],
       "kisi2":[
         {
-          "company":"Tarik",
+          "company":"Utku",
           "title":"Senior UX God ",
           "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
           "img": "profilepic.jpg"
@@ -73,7 +73,7 @@
       ],
       "kisi3":[
         {
-          "company":"Kadircan",
+          "company":"Oguz",
           "title":"Senior UX God ",
           "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
           "img": "profilepic.jpg"
@@ -81,10 +81,10 @@
       ],
       "kisi4":[
         {
-          "company":"Ilke",
+          "company":"Pelin",
           "title":"Senior UX God ",
           "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
-          "img": "profilepic.jpg"
+          "img": "pelin.jpeg"
         }
       ]
     },
